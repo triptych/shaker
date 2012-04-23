@@ -6,7 +6,7 @@
   "contributors": [
       "Diego Ferreiro <diegof@yahoo-inc.com>",
       "Stephen Murphy <murphys@yahoo-inc.com>",
-      "Andrew Wooldridge <awooldri@yahoo-inc.com"
+      "Andrew Wooldridge <awooldri@yahoo-inc.com>"
   ],
   "dependencies": {
     "mime": "1.2.x",
